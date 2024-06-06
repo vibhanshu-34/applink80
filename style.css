@@ -16,6 +16,9 @@
   background: #000000;
   box-shadow: 2px 2px 7px #AFF5FF;
 }
+
+
+
 .main1{
   height: 100vh;
   width: 100vw;
@@ -25,7 +28,7 @@
 .main2 {
   height: 100vh;
   width: 100vw;
-  background: #FF2424;
+  background: #111111;
 }
 
 .lcont{
